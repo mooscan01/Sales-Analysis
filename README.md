@@ -39,11 +39,3 @@ This repository contains a Power BI project focused on analyzing sales data. The
 3. Explore the dashboards and customize as needed.
 
 ---
-
-### 🔍 Future Improvements (Optional)
-
-* Add predictive analysis using Python/R scripts
-* Include drillthrough or tooltip pages
-* Enhance mobile layout
-
----
